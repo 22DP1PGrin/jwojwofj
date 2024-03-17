@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\kULTURAuNaTPUTA\kULTURAuNaTPUTA\bin\Debug\net8.0\kULTURAuNaTPUTA.exe
+C:\Users\Admin\source\repos\kULTURAuNaTPUTA\kULTURAuNaTPUTA\bin\Debug\net8.0\kULTURAuNaTPUTA.deps.json
+C:\Users\Admin\source\repos\kULTURAuNaTPUTA\kULTURAuNaTPUTA\bin\Debug\net8.0\kULTURAuNaTPUTA.runtimeconfig.json
+C:\Users\Admin\source\repos\kULTURAuNaTPUTA\kULTURAuNaTPUTA\bin\Debug\net8.0\kULTURAuNaTPUTA.dll
+C:\Users\Admin\source\repos\kULTURAuNaTPUTA\kULTURAuNaTPUTA\bin\Debug\net8.0\kULTURAuNaTPUTA.pdb
+C:\Users\Admin\source\repos\kULTURAuNaTPUTA\kULTURAuNaTPUTA\obj\Debug\net8.0\kULTURAuNaTPUTA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\kULTURAuNaTPUTA\kULTURAuNaTPUTA\obj\Debug\net8.0\kULTURAuNaTPUTA.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\kULTURAuNaTPUTA\kULTURAuNaTPUTA\obj\Debug\net8.0\kULTURAuNaTPUTA.AssemblyInfo.cs
+C:\Users\Admin\source\repos\kULTURAuNaTPUTA\kULTURAuNaTPUTA\obj\Debug\net8.0\kULTURAuNaTPUTA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\kULTURAuNaTPUTA\kULTURAuNaTPUTA\obj\Debug\net8.0\kULTURAuNaTPUTA.dll
+C:\Users\Admin\source\repos\kULTURAuNaTPUTA\kULTURAuNaTPUTA\obj\Debug\net8.0\refint\kULTURAuNaTPUTA.dll
+C:\Users\Admin\source\repos\kULTURAuNaTPUTA\kULTURAuNaTPUTA\obj\Debug\net8.0\kULTURAuNaTPUTA.pdb
+C:\Users\Admin\source\repos\kULTURAuNaTPUTA\kULTURAuNaTPUTA\obj\Debug\net8.0\kULTURAuNaTPUTA.genruntimeconfig.cache
+C:\Users\Admin\source\repos\kULTURAuNaTPUTA\kULTURAuNaTPUTA\obj\Debug\net8.0\ref\kULTURAuNaTPUTA.dll
